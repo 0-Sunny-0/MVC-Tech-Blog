@@ -8,7 +8,6 @@
 - [Usage](#Usage)<br>
 - [Contributing](#Contributing)<br>
 - [License](#license)<br>
-- [Tests](#Tests)<br>
 - [Questions](#Questions)<br>
 
 ## Description
@@ -16,7 +15,7 @@
 ## Links
 
 <a href="https://github.com/0-Sunny-0/MVC-Tech-Blog">Github Repo Link</a><br>
-<a href="">Recorded Video</a><br>
+<a href="">Deployed Render Site</a><br>
 
 ## Installation
 
