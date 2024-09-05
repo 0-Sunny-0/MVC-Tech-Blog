@@ -1,5 +1,7 @@
 # MVC-Tech-Blog
 
+Please note: This is an incomplete work in progress. Some things may work and some may not. Will update as I continue the learning process. 
+
 ## Table of Contents
 
 - [Description](#description)<br>
@@ -15,10 +17,11 @@
 ## Links
 
 <a href="https://github.com/0-Sunny-0/MVC-Tech-Blog">Github Repo Link</a><br>
-<a href="">Deployed Render Site</a><br>
+<a href="https://mvc-tech-blog-sfg4.onrender.com">Not So Deployed Render Site</a><br>
 
 ## Installation
 
+To run this application: in your integrated terminal, use the command npm install for necessary dependencies.
 
 ## Usage
 
